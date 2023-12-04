@@ -94,6 +94,13 @@ h2 {
 .fs-4 {
     text-align: center;
 }
+.fs-2 {
+    text-align: center;
+}
+.ubicacion {
+    margin: 0 auto;
+    display: block;
+}
 /*</main>*/
 
 /*<footer>*/
@@ -113,7 +120,11 @@ footer {
     bottom: 1rem;
     right: 2rem;
 }
-h3 {
+.fs-5 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.fs-6 { 
     text-align: center;
 }
 /*</footer>*/
